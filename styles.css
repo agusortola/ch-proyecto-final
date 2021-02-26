@@ -196,7 +196,8 @@
     margin-bottom: 50px;
 }
 .inp{
-    width: 12%;
+    width: 20%;
+    height: 20px;
     background-color:#ffba3b;
     font-weight: bold;
     color: #f7e7b7;

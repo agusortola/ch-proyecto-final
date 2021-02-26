@@ -1,0 +1,85 @@
+[
+    {
+        "name": "The Course", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/the-course-img.png"
+    },
+    
+    {
+        "name": "Big Whoop", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/big-whoop-img.png"
+    },
+
+    {
+        "name": "Tribecangu", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/tribecangu-img.png"
+    },
+
+    {
+        "name": "Lechucks RY4D", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/lechuck-img.png"
+    },
+
+    {
+        "name": "Murrays Delight", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/murrays-img.png"
+    },
+
+    {
+        "name": "Monkey Island", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/monkey-island-img.png"
+    },
+
+    {
+        "name": "Blood Island", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/blood-island-img.png"
+    },
+
+    {
+        "name": "Meleemonade", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/meleemonade-img.png"
+    },
+
+    {
+        "name": "Red Parrot", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/red-parrot-img.png"
+    },  
+
+    {
+        "name": "LeChimp", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/lechimp-img.png"
+    },
+
+    {
+        "name": "LemonHead", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/lemonhead-img.png"
+    },
+
+    {
+        "name": "Secret Grog", 
+        "price": "750", 
+        "stock": 9999, 
+        "img":"img/secret-grog-img.png"
+    }
+]
